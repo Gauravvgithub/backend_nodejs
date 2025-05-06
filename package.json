@@ -2,13 +2,21 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Gauravvgithub/backend_nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/Gauravvgithub/backend_nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gauravvgithub/backend_nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Gaurav",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  }
 }
